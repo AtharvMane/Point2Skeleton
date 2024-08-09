@@ -1,0 +1,10 @@
+# ninja log v5
+4	19090	1723068615280000000	/nas_hcfc/mane_thesis/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/ball_query_gpu.o	9183cb96109d987d
+5	19608	1723068615810000000	/nas_hcfc/mane_thesis/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/group_points_gpu.o	752ca85113c6dc51
+5	19647	1723068615930000000	/nas_hcfc/mane_thesis/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/interpolate_gpu.o	ace7b2ed1711389b
+5	19715	1723068615980000000	/nas_hcfc/mane_thesis/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/sampling_gpu.o	9bdfffc77423f670
+4	19869	1723068616100000000	/nas_hcfc/mane_thesis/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/bindings.o	f4611ff06a3edbba
+4	19981	1723068616220000000	/nas_hcfc/mane_thesis/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/ball_query.o	e2bc0f558255d198
+5	20110	1723068616340000000	/nas_hcfc/mane_thesis/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/sampling.o	1447e59bf03bc999
+5	20157	1723068616400000000	/nas_hcfc/mane_thesis/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/group_points.o	7a2672235710710c
+5	20283	1723068616520000000	/nas_hcfc/mane_thesis/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/interpolate.o	326ddcbdbb120308

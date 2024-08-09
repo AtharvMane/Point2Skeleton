@@ -2,3 +2,13 @@ data/*.ply
 data/*.txt
 weights/*.pth
 *.pyc
+
+data (2).zip
+data/data-split/
+data/pointclouds/
+log/
+src/wget-log
+tensorboard/
+training-weights/
+
+

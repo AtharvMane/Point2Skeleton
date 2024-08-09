@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import numpy as np
-from pointnet2.utils.pointnet2_modules import PointnetSAModuleMSG
+from pointnet2.pointnet2_modules import PointnetSAModuleMSG
 import torch.nn.functional as F
 import copy
 import DistFunc as DF
